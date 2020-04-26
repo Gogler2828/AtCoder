@@ -1,2 +1,2 @@
 # AtCoder
-Practice Python for AtCoder
+Practice for AtCoder
